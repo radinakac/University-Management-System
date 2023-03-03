@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe.config
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.pdb
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Form1.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.exe
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.pdb
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Form2.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Vavejdane.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Izvejdane.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Spravka_disciplina.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Spravka_ocenki.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Sruspehcs.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Pol.resources
